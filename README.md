@@ -84,7 +84,7 @@ An example of the model performance:
 
 ## Additional Information
 
-For detailed explanations of the models, datasets, training configurations, and results, please refer to the [Project Report](./project_report.pdf).
+For detailed explanations of the models, datasets, training configurations, and results, please refer to the [Project Report](./project-report.pdf).
 
 ---
 
@@ -108,5 +108,3 @@ For detailed explanations of the models, datasets, training configurations, and 
     year={2018}
   }
   ```
-
-You can find more details about how these datasets were used in the [Project Report](./project_report.pdf).
